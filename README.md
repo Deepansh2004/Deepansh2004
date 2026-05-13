@@ -1,5 +1,20 @@
 ## Hi there 👋
+I'm Deepansh Lather 👋
 
+I'm a Finance student at Hult International Business School.
+
+## What I'm working on
+- Learning Python and computer science basics
+- Building projects in finance and data
+
+## What I'm interested in learning
+- Data analysis
+- Financial modeling
+- Coding
+
+## Hobbies
+- Trading
+- Tennis
 <!--
 **Deepansh2004/Deepansh2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
